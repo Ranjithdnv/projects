@@ -1,0 +1,25 @@
+
+video,img{  
+  width:  400px;
+  height: 300px;
+  object-fit: cover;}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  
+  gap:1.5rem ;
+}
+.rrr{display: none;}
+.uplod{
+  display: none;
+}
+.appvideo{ display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+  gap:1.5rem ;}
+  .Ap{
+    display: flex;
+    justify-content: space-between;
+  }
